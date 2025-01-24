@@ -14,6 +14,8 @@ Kantar_projects
     └── étude_partie_3.ipynb
 ```
 
+Dans le dossier `Data/` se trouvent les fichiers générés dans la partie 1.
+
 # Groupe
 - Maël Reynaud
 - Alexandre Devaux Riviere
