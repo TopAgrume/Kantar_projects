@@ -13,6 +13,7 @@ Kantar_projects
 └── 3_réaffectation_var_illustratives
     └── étude_partie_3.ipynb
 ```
+Toutes les justifications nécessaires sont intégrées aux notebooks.
 
 Dans le dossier `data/` se trouvent les fichiers générés dans la partie 1.
 
